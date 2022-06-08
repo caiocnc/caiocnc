@@ -1,5 +1,5 @@
 
-## Olá meu nome é Caio! 🤙 Desenvolvo jogos nas hora vagas! 🎮
+## Olá meu nome é Caio! 🤙 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-do-nascimento-265997116/)
 [![Itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://caiocnc.itch.io/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/camisanocontrole)
