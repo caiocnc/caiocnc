@@ -19,6 +19,6 @@
 </div><br/>
 <br/>
 
-Olá tenho 29 anos, estou no segundo semestre na faculdade de jogos digitais e estudo programação nas horas vagas. Sou apaixonado pelo mercado de games e tecnologia. Busco me ingresssar nesse mercado e por isso estou focado nos meus estudos.
+Olá tenho 31 anos, faço faculdade de desenvolvimento de jogos digitais e estudo programação nas horas vagas. Sou apaixonado pelo mercado de games e tecnologia. Busco me ingresssar nesse mercado e por isso estou focado nos meus estudos.
 
 Caso queira entrar em contato, mande um email para: contatocnc@hotmail.com
